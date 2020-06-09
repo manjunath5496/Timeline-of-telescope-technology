@@ -5,7 +5,7 @@
 <li><a href="#course4">Engineering, Economics and Regulation of the Electric Power Sector</a></li>
 <li><a href="#course5">Doctoral Seminar in Engineering Systems</a></li>
 <li><a href="#course6">Integrating Doctoral Seminar on Emerging Technologies</a></li>
-
+<li><a href="#course7">Leadership Development</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -722,10 +722,35 @@ Guest lecturer: Dan Frey</td>
 </table>
 
 </br>
+<h2 id="course7">Leadership Development</h2>
 
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>TITLES</th>
+<th>SLIDES</th>
+<th>TRANSCRIPTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Leadership Development for Incoming TPP Students</td>
+<td>(<a href="esd801session1fullsetLeadershipdevelopmentfall2002.pdf">PDF</a>)</td>
+<td>(<a href="ESD801session1notestranssept32002.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Leadership Development Offsite, Part 2</td>
+<td>(<a href="ESD801WeekendSession2NegotiationsandTeamsfall2002.pdf">PDF</a>)</td>
+<td>(<a href="session2notestranssept292002.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Leadership Development Calibration</td>
+<td>(<a href="ESD801session3CrossCulturalNegotiationsfall2002.pdf">PDF</a>)</td>
+<td>(<a href="Session3Notestransnov152002.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
-
-
-
+</br>
 
 
