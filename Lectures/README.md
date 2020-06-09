@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Statistical Thinking and Data Analysis</a></li>
-<li><a href="#course2">Introduction to Biological Engineering Design</a></li>
+<li><a href="#course2">Multidisciplinary System Design Optimization</a></li>
 <li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
 <li><a href="#course4">Systems Microbiology</a></li>
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
@@ -148,6 +148,170 @@
 
 </br>
 
+<h2 id="course2">Multidisciplinary System Design Optimization</h2>
 
 
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to multidisciplinary system design optimization</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec01.pdf">PDF - 1.9MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Problem formulation</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec02.pdf">PDF - 1.9MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Modeling and simulation</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec03.pdf">PDF - 3.3MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Problem decomposition</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec04.pdf">PDF - 2.2MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Design space exploration</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec05.pdf">PDF - 1.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Visualization<br />&nbsp;</td>
+<td><br />&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Numerical optimization I</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec07.pdf">PDF - 2.3MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Numerical optimization II</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec08.pdf">PDF - 1.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Sensitivity analysis</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec09.pdf">PDF - 2.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Simulated annealing</td>
+<td>(<a href="MITESD_77S10_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Genetic algorithms I</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec11.pdf">PDF - 2.3MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Genetic algorithms II</td>
+<td>(<a href="MITESD_77S10_lec12.pdf">PDF</a>)<br />&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Goal programming &ndash; isoperformance</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec13.pdf">PDF - 8.2MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Multi-objective optimization I</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec14.pdf">PDF - 2.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Multi-objective optimization II</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec15.pdf">PDF - 2.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Post-optimality analysis</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec16.pdf">PDF - 1.2MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Approximation methods</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec17.pdf">PDF - 2.4MB</a>)&nbsp;</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Robust design</p>
+Guest lecturer: Dan Frey</td>
+<td>(<a href="MITESD_77S10_lec18.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Design for value</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec19.pdf">PDF - 2.7MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>MDO at Boeing</td>
+<td><span class="nobr">&nbsp;</span></td>
+</tr>
+<tr class="row">
+<td>
+<p>Design for flexibility</p>
+<p>Guest lecturer: Michel-Alexandre Cardin</p>
+</td>
+<td>(<a href="MITESD_77S10_lec21.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Roots and future of MDO</td>
+<td><span class="nobr">&nbsp;</span></td>
+</tr>
+<tr class="row">
+<td>Course Summary</td>
+<td><span class="nobr">(<a href="MITESD_77S10_lec23.pdf">PDF - 1.3MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Assignment 1 (<a href="MITESD_77S10_assn01.pdf">PDF</a>)</td>
+<td>(<a href="MITESD_77S10_soln01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Assignment 2 (<a href="MITESD_77S10_assn02.pdf">PDF</a>)</p>
+</td>
+<td>(<a href="MITESD_77S10_soln02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assignment 3 (<a href="MITESD_77S10_assn03.pdf">PDF</a>)</td>
+<td>(<a href="MITESD_77S10_soln03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 4 (<a href="MITESD_77S10_assn04.pdf">PDF</a>)</td>
+<td>(<a href="MITESD_77S10_soln04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assignment 5 (<a href="MITESD_77S10_assn05.pdf">PDF</a>)</td>
+<td>(<a href="MITESD_77S10_soln05.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h3 class="subsubhead">Wind Turbine Blade Design Optimization</h3>
+<p>Paper (<a href="MITESD_77S10_paper01.pdf">PDF</a>)</p>
+<p>Presentation (<a href="MITESD_77S10_pres01.pdf">PDF - 2.1MB</a>)</p>
+<p>&nbsp;</p>
+<h3 class="subsubhead">Supersonic Business Jet: Design Space Exploration and Optimization</h3>
+<p>Josiah VanderMey and Hassan Bukhari</p>
+<p>Paper (<a href="MITESD_77S10_paper03.pdf">PDF</a>)</p>
+<p>Presentation (<a href="MITESD_77S10_pres03.pdf">PDF</a>)</p>
+<p>&nbsp;</p>
+<h3 class="subsubhead">Barge Design Optimization</h3>
+<p>Paper&nbsp;<span class="nobr">(<a href="MITESD_77S10_paper04.pdf">PDF - 1.3MB</a>)</span></p>
+<p>Presentation (<a href="MITESD_77S10_pres04.pdf">PDF</a>)</p>
+<p>&nbsp;</p>
+<h3 class="subsubhead">Space Shuttle External Tank Optimization</h3>
+<p>Paper (<a href="MITESD_77S10_paper05.pdf">PDF</a>)</p>
+<p>Presentation&nbsp;<span class="nobr">(<a href="MITESD_77S10_pres05.pdf">PDF - 1.5MB</a>)</span></p>
+<p><span class="nobr">&nbsp;</span></p>
+<h3 class="subsubhead">Airbag-Based Crew Impact Attenuation Systems for the Orion Vehicle &ndash; Single Airbag Optimization</h3>
+<p>Paper (<a href="MITESD_77S10_paper06.pdf">PDF</a>)</p>
+<p>Presentation (<a href="MITESD_77S10_pres06.pdf">PDF</a>)</p>
+</br>
