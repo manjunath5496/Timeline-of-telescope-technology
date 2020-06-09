@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Statistical Thinking and Data Analysis</a></li>
 <li><a href="#course2">Multidisciplinary System Design Optimization</a></li>
-<li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
+<li><a href="#course3">Modeling and Assessment for Policy</a></li>
 <li><a href="#course4">Systems Microbiology</a></li>
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
 <li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
@@ -315,3 +315,107 @@ Guest lecturer: Dan Frey</td>
 <p>Paper (<a href="MITESD_77S10_paper06.pdf">PDF</a>)</p>
 <p>Presentation (<a href="MITESD_77S10_pres06.pdf">PDF</a>)</p>
 </br>
+<h2 id="course3">Modeling and Assessment for Policy</h2>
+
+
+<table style="width: 827px;" summary="See table caption for summary.">
+<thead>
+<tr>
+<th style="width: 511px;" scope="col">TOPICS</th>
+<th style="width: 300px;" scope="col">LECTURE SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td style="width: 511px;">Introduction</td>
+<td style="width: 300px;"><a href="MITESD_864S13_lecture1.pdf">Lecture 1 Slides (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 511px;">Science Policy Review</td>
+<td style="width: 300px;"><a href="MITESD_864S13_lecture2.pdf">Lecture 2 Slides (PDF)<br /></a></td>
+</tr>
+<tr class="row">
+<td style="width: 511px;">Verification and Validation</td>
+<td style="width: 300px;"><a href="MITESD_864S13_lecture3.pdf">Lecture 3 Slides (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 511px;">
+<p>Case Study: Acid Rain in Europe</p>
+<p>Case Study: Fisheries</p>
+</td>
+<td style="width: 300px;"><a href="MITESD_864S13_lecture5.pdf">Lecture 5 Slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td style="width: 511px;">
+<p>Case Study: Climate Change and the Intergovernmental Panel on Climate Change</p>
+<p>Guest Lecturer: Susan Solomon,&nbsp;<a href="http://eaps-www.mit.edu/paoc/people/susan-solomon/bio">MIT Professor of Atmospheric Chemistry &amp; Climate Science</a></p>
+</td>
+<td style="width: 300px;">
+<p><a href="MITESD_864S13_lecture7.pdf">Lecture 7 Slides (PDF - 2.5MB)</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 511px;">
+<p>Energy Modeling Workshop</p>
+<p>Guest Lecturer: Travis Franck,&nbsp;<a href="http://climateinteractive.org/">Climate Interactive</a></p>
+</td>
+<td style="width: 300px;">
+<p><a href="MITESD_864S13_lecture8.pdf">Lecture 8 Slides (PDF- 1.1MB)</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td style="width: 511px;">System Modeling</td>
+<td style="width: 300px;"><a href="MITESD_864S13_lecture12.pdf">Lecture 12 Slides (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 511px;">Class Case 3: Oil Spill / Risk Assessment Part I</td>
+<td style="width: 300px;"><a href="MITESD_864S13_lecture14.pdf">Lecture 14 Slides (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td style="width: 511px;">
+<p>Models at the Environmental Protection Agency</p>
+<p>Guest Lecturer: Elsie Sunderland,&nbsp;<a href="http://www.hsph.harvard.edu/elsie-sunderland/">Harvard School of Public Health</a></p>
+</td>
+<td style="width: 300px;">
+<p><a href="MITESD_864S13_lecture15.pdf">Lecture 15 Slides (PDF - 6.5MB)</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 511px;">Class Case 4: Clean Air / Risk Assessment Part II</td>
+<td style="width: 300px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 511px;">Synthesis and Wrap-up</td>
+<td style="width: 300px;"><a href="MITESD_864S13_lecture26.pdf">Lecture 26 Slides (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUIZZES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MITESD_864S13_Quiz1.pdf">Quiz 1 (PDF)</a></td>
+<td><a href="MITESD_864S13_Quiz1_Sol.pdf">Solutions to Quiz 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITESD_864S13_Quiz2.pdf">Quiz 2 (PDF)</a></td>
+<td><a href="MITESD_864S13_Quiz2_Sol.pdf">Solutions to Quiz 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MITESD_864S13_Quiz3.pdf">Quiz 3 (PDF)</a></td>
+<td><a href="MITESD_864S13_Quiz3_Sol.pdf">Solutions to Quiz 3 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
