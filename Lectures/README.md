@@ -657,82 +657,70 @@ Guest lecturer: Dan Frey</td>
 </table>
 </br>
 <h2 id="course6">Integrating Doctoral Seminar on Emerging Technologies</h2>
-
 <table summary="See table caption for summary.">
 <thead>
 <tr class="alt-row">
 <th id="tbl411id0_1" scope="col">TOPICS</th>
-<th id="tbl411id0_2" scope="col">INSTRUCTORS</th>
 <th id="tbl411id0_3" scope="col">LECTURE&nbsp;NOTES</th>
 </tr>
 </thead>
 <tbody>
 <tr class="row">
-<td colspan="3"><strong>Phase One</strong></td>
+<td colspan="2"><strong>Phase One</strong></td>
 </tr>
 <tr class="alt-row">
 <td headers="tbl411id0_1">Uncertainty<br /><br />The Engineer's View<br /><br />On the Power and the Limits of Analysis</td>
-<td headers="tbl411id0_2">DH, LM</td>
 <td headers="tbl411id0_3">(<a href="lec1.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td headers="tbl411id0_1">On Handling Messy Complexity</td>
-<td headers="tbl411id0_2">DH</td>
 <td headers="tbl411id0_3">(<a href="lec2.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
 <td headers="tbl411id0_1">The Engineering Mindset<br /><br />Analysis of the Columbia Disaster</td>
-<td headers="tbl411id0_2">DH</td>
 <td headers="tbl411id0_3">&nbsp;</td>
 </tr>
 <tr class="row">
 <td headers="tbl411id0_1">Bureaucratic Politics<br /><br />Some Powerful Dumb Ideas about Politics and Policymaking</td>
-<td headers="tbl411id0_2">LM</td>
 <td headers="tbl411id0_3">&nbsp;</td>
 </tr>
 <tr class="alt-row">
 <td headers="tbl411id0_1">Technological Forecasting<br /><br />Methods for Forecasting; Predictions for the Future; How have they Actually Worked?</td>
-<td headers="tbl411id0_2">JB with Prof. Chris Magee</td>
 <td headers="tbl411id0_3">Technology Assessment (<a href="lec5_assess.pdf">PDF</a>)<br />Technological Forecasting (<a href="lec5_forecast.pdf">PDF</a>)&nbsp;</td>
 </tr>
 <tr class="row">
-<td colspan="3" headers="tbl411id0_0"><strong>Phase Two: Structured Case Presentations</strong></td>
+<td colspan="2" headers="tbl411id0_0"><strong>Phase Two: Structured Case Presentations</strong></td>
 </tr>
 <tr class="alt-row">
 <td headers="tbl411id0_1">GPS for Selected Applications</td>
-<td headers="tbl411id0_2">Expert: DH<br />Presenters: AH, AM, CN</td>
 <td headers="tbl411id0_3">(<a href="lec6_gps.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td headers="tbl411id0_1">Packet Switching for Data Communication</td>
-<td headers="tbl411id0_2">Expert: Dave Clark<br />Presenters: SH, SL</td>
 <td headers="tbl411id0_3">&nbsp;</td>
 </tr>
 <tr class="alt-row">
 <td>The Minicomputer</td>
-<td>Expert: Frank Field<br />Presenters: KD, DF</td>
 <td>&nbsp;</td>
 </tr>
 <tr class="row">
 <td>Supersonic Transport (SST)</td>
-<td>Expert: David Mindell<br />Presenters: KD, SL, AM</td>
 <td>(<a href="lec9_sst.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
 <td>Seldane to Allegra</td>
-<td>Expert: Frank Douglas<br />Presenters: DF, CN</td>
 <td>&nbsp;</td>
 </tr>
 <tr class="row">
 <td>The National Airspace System</td>
-<td>Expert: Dava Newman<br />Presenters: AH, SH</td>
 <td>(<a href="lec11_uav.pdf">PDF - 2.2 MB</a>)</td>
 </tr>
 <tr class="alt-row">
-<td colspan="3"><strong>Phase Three</strong></td>
+<td colspan="2"><strong>Phase Three</strong></td>
 </tr>
 </tbody>
 </table>
+
 </br>
 
 
