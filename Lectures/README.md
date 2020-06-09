@@ -2,7 +2,7 @@
 <li><a href="#course1">Statistical Thinking and Data Analysis</a></li>
 <li><a href="#course2">Multidisciplinary System Design Optimization</a></li>
 <li><a href="#course3">Modeling and Assessment for Policy</a></li>
-<li><a href="#course4">Systems Microbiology</a></li>
+<li><a href="#course4">Engineering, Economics and Regulation of the Electric Power Sector</a></li>
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
 <li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
 <li><a href="#course7">Biological Engineering Programming</a></li>
@@ -418,4 +418,134 @@ Guest lecturer: Dan Frey</td>
 </tbody>
 </table>
 </br>
+<h2 id="course4">Engineering, Economics and Regulation of the Electric Power Sector</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>How do electric power systems manage to provide electricity continuously with an adequate quality of service, at an affordable price and with an acceptable environmental impact? Course introduction.</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_01.pdf">PDF - 2.3MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>A historical approach to the electric power sector. Electric power systems (EPS) from physical and operation perspectives. Demand of electricity; production, technologies, equipment, fuels, networks, metering and communication, control centers.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_02.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Global view of an EPS from an economic and managerial perspective. Organization of the power sector. The hierarchy of decision-making processes in the traditionally regulated power sector. Equivalent functions under a competitive regime.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_03.pdf">PDF - 1.6MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The regulatory function. What should and should not be regulated. Traditional regulation of the electric power sector. Cost-of-service remuneration. Weak and strong points of the traditional approach.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_04.pdf">PDF - 5.0MB</a>)</td>
+</tr>
+<tr class="row">
+<td>How to regulate a network monopolistic activity, such as distribution of electricity? Under which conditions would an electric utility provide distribution network services efficiently and with an adequate quality of service?</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_05.pdf">PDF - 1.7MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Regulation of natural monopolies. Beyond the cost-of-service approach. Incentive based regulation. Critical revision of major regulatory approaches. A price control process. Description and evaluation of the RPI-X approach. Costs, revenues and efficiency gains. Distribution of electricity. Economic, technical and regulatory characterization. Incentive schemes to move towards optimal levels of network losses and quality of service.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_06.pdf">PDF - 5.5MB</a>)</td>
+</tr>
+<tr class="row">
+<td>How to design, implement and monitor an efficient, reliable and environmentally adequate system of electricity production? Competitive markets or traditional regulation? How does a wholesale market function? How to deal with any abuses of market power?</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_07.pdf">PDF - 8.2MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Economic generations dispatch. The search for efficiency via optimization. Links to longer term functions in a traditionally based reulatory approach.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Principles of microeconomics. Relationships between the traditional and competitive regulatory frameworks.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_09.pdf">PDF - 2.7MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Equivalences among remuneration schemes. Factors affecting the expectation of cost recovery.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Wholesale electricity markets. Formats of commercial trade among agents and hedging of risk.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_11.pdf">PDF - 3.9MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Organized power exchanges. Spot markets. Longer term organized contracting. Bilateral contracts. Energy derivatives.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_12.pdf">PDF - 2.3MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Market power. Oligopolistic strategies. Monitoring and measures of mitigation of market power. Simulation models. Case example on market power mitigation measures.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Characterization of the transmission activity. Nodal prices of electricity. Properties of recovery of total transmission network costs.</td>
+<td>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_14a.pdf">PDF - 1.7MB</a>)</p>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_14b.pdf">PDF - 1.5MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Investment in transmission network assets. Critical review of international experiences. Transmission access. Conditions for connection to the grid. Management of network congestions. Formats of electricity transmission contracts.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_15.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transmission access. Transmission pricing. Justification and design of locational signals for generation and demand.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_16.pdf">PDF - 1.9MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Tariff design. Basic principles: sustainability, efficiency, additivity, non-discrimination, transparency, simplicity. Specific treatment of each activity.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_17.pdf">PDF - 2.6MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Retail markets. The debate on the extension to all consumers. Convenience and design of default tariffs. Demand response. Advanced metering and its implications.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_18.pdf">PDF - 1.0MB</a>)</td>
+</tr>
+<tr class="row">
+<td>The origin of the problem. Is there a market failure? Description and critical evaluation of relevant approaches both proposed and actually implemented.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Visit to the ISO-New England control center. Secure operation, daily market, ancillary services, renewaables, capacity expansion, etc.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Justification of ad hoc regulatory regimes for generation of electricity from renewable energy sources. Critical evaluation of existing and proposed regimes for promotion of renewables. New regulatory issues in a regional / multinational context.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Case study: The struggle to find a seamless method to integrate the national electricity markets in the European Union (EU) into a Single Electricity Market. Lessons to be learned.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_22.pdf">PDF - 3.6MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Examination of the present energy model under a sustainability perspective. Identification of the major shortcomings. Review of the major measures that can be applied concerning the electric power sector and the corresponding regulatory instruments. Markets versus governments. The potential role of indicative planning and its compatibility with electricity markets.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_23.pdf">PDF - 1.6MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>What is meant by efficiency? Is energy efficiency about supply or demand? How big is it and how much does it cost? What is the history of the electric utility role in efficiency and what should be? What is "responsive energy" and what does it have to do with "smart grids"? What is the role of the electric utility in the smart/responsive energy world ahead? What are the opportunities in the field?</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Review of international experiences of electricity reform and their impact on universal electricity access. Elements of successful programs of rural electrification. Extension of the major grid and supply to dispersed population. Regulatory challenges and how to address them.</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITESD_934S10_lec_25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Regulatory instruments to mitigate climate change. Design and implementation of carbon markets and prices. Targets, allocation of allowances, banking and risk hedging schemes. Impacts on electricity markets. The debate on windfall profits.</td>
+<td>
+<p>(<a href="MITESD_934S10_lec_26.pdf">PDF</a>)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>Presentation of the term papers. An extended schedule will be used on that day, so that all papers will have sufficient time for presentation and discussion.</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
 
