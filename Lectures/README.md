@@ -3,27 +3,8 @@
 <li><a href="#course2">Multidisciplinary System Design Optimization</a></li>
 <li><a href="#course3">Modeling and Assessment for Policy</a></li>
 <li><a href="#course4">Engineering, Economics and Regulation of the Electric Power Sector</a></li>
-<li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
-<li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
-<li><a href="#course7">Biological Engineering Programming</a></li>
-<li><a href="#course8">Computation for Biological Engineers</a></li>
-<li><a href="#course9">Mechanisms of Drug Actions</a></li>
-<li><a href="#course10">Molecular, Cellular, and Tissue Biomechanics</a></li>
-<li><a href="#course11">Analysis of Biomolecular and Cellular Systems</a></li>
-<li><a href="#course12">Fields, Forces and Flows in Biological Systems</a></li>
-<li><a href="#course13">Materials for Biomedical Applications</a></li>
-<li><a href="#course14">Molecular Structure of Biological Materials</a></li>
-<li><a href="#course15">Quantitative Physiology: Organ Transport Systems</a></li>
-<li><a href="#course16">Biological Engineering Design</a></li>
-<li><a href="#course17">Foundations of Computational and Systems Biology</a></li>
-<li><a href="#course18">Cell-Matrix Mechanics</a></li>
-<li><a href="#course19">Analysis of Biological Networks</a></li>
-<li><a href="#course20">Biomaterials-Tissue Interactions</a></li>
-<li><a href="#course21">Molecular and Cellular Pathophysiology </a></li>
-<li><a href="#course22">Design of Medical Devices and Implants</a></li>
-<li><a href="#course23">Biomedical Information Technology</a></li>
-<li><a href="#course24">Molecular Principles of Biomaterials</a></li>
-<li><a href="#course25">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
+<li><a href="#course5">Doctoral Seminar in Engineering Systems</a></li>
+
 
 
 </ul>
@@ -545,7 +526,133 @@ Guest lecturer: Dan Frey</td>
 </table>
 </br>
 
+<h2 id="course5">Doctoral Seminar in Engineering Systems</h2>
 
 
-
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">DISCUSSION&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Present and future&mdash;The incorporation of social science and engineering into research and problem solving</p>
+<p>Guest: Joel Moses</p>
+</td>
+<td>
+<p>(<a href="MITESD_83F11_lec01a.pdf">PDF</a>)</p>
+<p>(<a href="MITESD_83F11_lec01b.pdf">PDF - 1.8MB</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>How do we know what we know?&mdash;The generation of cumulative knowledge in a field</p>
+<p>Guest: David Kaiser</p>
+</td>
+<td>(<a href="MITESD_83F11_lec02.pdf">PDF - 1.1MB</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Modeling paradigms in engineering systems: Useful models and various modeling approaches</p>
+<p>Guest: Oliver de Weck</p>
+</td>
+<td>
+<p>(<a href="MITESD_83F11_lec03.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>System and enterprise architecture: Qualitative frameworks, quantitative models, and system representation</p>
+<p>Guest: Donna Rhodes</p>
+</td>
+<td>
+<p>(<a href="MITESD_83F11_lec04.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Uncertainty and its analysis in engineering systems</p>
+<p>Guest: Mort Webster</p>
+</td>
+<td>(<a href="MITESD_83F11_lec05.pdf">PDF - 1.1MB</a>)</td>
+<td>(<a href="MITESD_83F11_lec05_discuss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Complexity in socio&ndash;technical systems</p>
+<p>Guest: Stuart Kauffman</p>
+</td>
+<td>(<a href="MITESD_83F11_lec06.pdf">PDF - 1.2MB</a>)</td>
+<td>(<a href="MITESD_83F11_lec06_discuss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Complexity and urban systems</p>
+<p>Guest: Chris Kegras</p>
+</td>
+<td>(<a href="MITESD_83F11_lec07.pdf">PDF - 1.7MB</a>)</td>
+<td>(<a href="MITESD_83F11_lec07_discuss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Network analysis in socio&ndash;technical systems</p>
+<p>Guest: Marta Gonzalez</p>
+</td>
+<td>(<a href="MITESD_83F11_lec08.pdf">PDF - 1.0MB</a>)</td>
+<td>&nbsp;(<a href="MITESD_83F11_lec08_discuss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Historical roots of engineering systems</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Poverty as a problem in complex systems (and empirical study)</p>
+<p>Guest: Abhijeet Banerjee</p>
+</td>
+<td>
+<p>(<a href="MITESD_83F11_lec10.pdf">PDF - 1.2MB</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Human dynamics and cognitive science in engineering systems</p>
+<p>Guest: Sandy Pentland</p>
+</td>
+<td>(<a href="MITESD_83F11_lec11.pdf">PDF</a>)</td>
+<td>(<a href="MITESD_83F11_lec11_discuss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Sustainability and engineering systems</p>
+<p>Guest: Noelle Selin</p>
+</td>
+<td>(<a href="MITESD_83F11_lec12.pdf">PDF</a>)</td>
+<td>(<a href="MITESD_83F11_lec12_discuss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Engineering design and design of complex socio&ndash;technical systems</p>
+<p>Guest: Richard de Neufville</p>
+</td>
+<td>(<a href="MITESD_83F11_lec13.pdf">PDF - 1.1MB</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Policy design/course wrap&ndash;up</td>
+<td>(<a href="MITESD_83F11_lec14.pdf">PDF - 1.0MB</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
